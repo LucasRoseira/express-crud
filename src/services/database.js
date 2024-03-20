@@ -7,7 +7,7 @@ const mysql = require('mysql');
 const dbOptions = {
   host: 'localhost',
   user: 'root',
-  password: 'Kratos_7o5n',
+  password: '',
   database: 'produtos'
 };
 
